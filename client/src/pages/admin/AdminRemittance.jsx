@@ -1,4 +1,4 @@
-import styles from "../../styles/AdminRemittance.module.css";
+import "../../styles/AdminRemittance.module.css";
 import React, { useState } from "react";
 import {
   FiSearch,
