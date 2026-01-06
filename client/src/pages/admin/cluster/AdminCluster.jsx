@@ -1,4 +1,4 @@
-import styles from "../../../styles/AdminCluster.module.css";
+import "../../../styles/adminCluster.module.css";
 import React, { useState } from "react";
 import {
   FiSearch,

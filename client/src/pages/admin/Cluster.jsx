@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AdminClusters from "./cluster/AdminCluster";
 import ClusterDetail from "./cluster/ClusterDetail";
 import ClusterEdit from "./cluster/ClusterEdit";
-import "../../styles/AdminCluster.module.css";
+import "../../styles/adminCluster.module.css";
 
 const Cluster = () => {
   const [view, setView] = useState("list");
