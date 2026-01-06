@@ -16,7 +16,7 @@ import {
   FiXCircle,
   FiDownload,
 } from "react-icons/fi";
-import styles from "../../../styles/adminloan.module.css";
+import styles from "../../../styles/adminLoan.module.css";
 
 const LoanDetail = ({ loan, onEdit, onDelete, onBack, onStatusUpdate }) => {
   const [activeTab, setActiveTab] = useState("overview");

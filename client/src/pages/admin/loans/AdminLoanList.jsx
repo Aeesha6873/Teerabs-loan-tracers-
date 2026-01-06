@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FiSearch, FiFilter, FiDownload, FiPlus } from "react-icons/fi";
-import styles from "../../../styles/adminloan.module.css";
+import styles from "../../../styles/adminLoan.module.css";
 
 const AdminLoanList = ({
   loans,
