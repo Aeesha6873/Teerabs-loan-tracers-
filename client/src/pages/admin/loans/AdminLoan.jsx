@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AdminLoanList from "./AdminLoanList";
 import LoanDetail from "./LoanDetail";
 import LoanEdit from "./LoanEdit";
-import "../../../styles/AdminLoan.module.css";
+import "../../../styles/adminloan.module";
 
 const AdminLoan = () => {
   const [view, setView] = useState("list");
